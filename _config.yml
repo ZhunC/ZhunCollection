@@ -1,3 +1,11 @@
 theme: minima
 title: Collection of my work
 author: Zhun Cheng
+
+navigation:
+  - title: Personal
+    url: /personal/
+  - title: Projects
+    url: /projects/
+  - title: Resume
+    url: /resume/
