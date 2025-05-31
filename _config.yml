@@ -1,8 +1,10 @@
 theme: minima
 title: Zhun's Archive
 author: Zhun Cheng
+show_excerpts: false
 
 header_pages:
-  - projects.md
+  - notes.md
   - stories.md
   - resume.md
+
