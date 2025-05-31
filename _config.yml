@@ -3,9 +3,9 @@ title: Zhun's Archive
 author: Zhun Cheng
 
 navigation:
-  - title: Personal
-    url: /personal/
-  - title: Projects
+  - title: Notes and Projects
     url: /projects/
+  - title: Short Stories
+    url: /stories/
   - title: Resume
     url: /resume/
