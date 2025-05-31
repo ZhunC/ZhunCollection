@@ -2,10 +2,7 @@ theme: minima
 title: Zhun's Archive
 author: Zhun Cheng
 
-navigation:
-  - title: Notes and Projects
-    url: /projects/
-  - title: Short Stories
-    url: /stories/
-  - title: Resume
-    url: /resume/
+header_pages:
+  - projects.md
+  - stories.md
+  - resume.md
