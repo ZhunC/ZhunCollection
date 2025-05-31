@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Personal
-permalink: /personal/
+permalink: /stories/
 ---
 
 # Personal Info
