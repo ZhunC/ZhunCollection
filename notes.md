@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notes and Projects
-permalink: /projects/
+permalink: /notes/
 share: "True"
 ---
 
