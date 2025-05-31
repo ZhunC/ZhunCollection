@@ -2,6 +2,9 @@ theme: minima
 title: Zhun's Archive
 author: Zhun Cheng
 show_excerpts: false
+minima:
+  social_links:
+    rss: false
 
 header_pages:
   - notes.md
