@@ -1,13 +1,11 @@
 theme: minima
 title: Zhun's Archive
 author: Zhun Cheng
-
-minima: 
-  show_excerpts: false
-  show_social_icons: false
-
+show_excerpts: false
 header_pages:
   - notes.md
   - stories.md
   - resume.md
+minima:
+  social_links: []
 
