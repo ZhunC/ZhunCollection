@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personal
+title: Short Stories
 permalink: /stories/
 ---
 
