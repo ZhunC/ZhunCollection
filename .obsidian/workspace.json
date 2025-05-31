@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c8fcc02cc6011255",
+    "type": "split",
+    "children": [
+      {
+        "id": "1753444b76b82359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df2ff5792a42b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/stories/2025-05-30-trash-bag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-30-trash-bag"
+            }
+          },
+          {
+            "id": "09c233a4dcca312e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/stories/2025-05-30-trash-bag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-30-trash-bag"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29d2bfde935da59e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f15b221972c9c151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9e41807cf1173e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f4897c35162e131",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3fb8406a3a651e04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72ebea58e4ed4bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "25873c7a47ccd41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8932c631998d183",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/stories/2025-05-30-trash-bag.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-05-30-trash-bag"
+            }
+          },
+          {
+            "id": "c8d8b93178e1deb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/stories/2025-05-30-trash-bag.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-05-30-trash-bag"
+            }
+          },
+          {
+            "id": "8310cca28f3969fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6d606a9092dd0e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/stories/2025-05-30-trash-bag.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-30-trash-bag"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "09c233a4dcca312e",
+  "lastOpenFiles": [
+    "TOKEN.md",
+    "_posts/stories/2025-05-30-trash-bag.md",
+    "_posts/notes/2025-05-30-bitwise-operation.md",
+    "notes.md",
+    "stories.md",
+    "_posts/notes/Quadrotor Dynamics Derivation, Newtonian.md",
+    "_posts/notes/Quadrotor Dynamics Derivation, Lagrangian.md",
+    "_posts/notes/Minimum DOF of a dynamic system, white box, grey box, and black box..md",
+    "Trash Bag.md",
+    "Untitled.canvas",
+    "Notes/Quick Note on Bitwise Operation.md",
+    "Notes/Communication with SPI.md",
+    "Notes/Quadrotor Dynamics Derivation, Newtonian.md",
+    "Notes/Quadrotor Dynamics Derivation, Lagrangian.md",
+    "Notes/Minimum DOF of a dynamic system, white box, grey box, and black box..md",
+    "Notes/Matrix Operations with nalgebra library in Rust.md",
+    "Stories",
+    "Notes",
+    "_posts/notes/Matrix Operations with nalgebra library in Rust.md",
+    "_posts/notes/Communication with SPI.md",
+    "_posts/stories",
+    "_posts/notes"
+  ]
+}
