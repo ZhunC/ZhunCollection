@@ -8,4 +8,4 @@ header_pages:
   - resume.md
 minima:
   social_links: []
-
+  hide_site_feed_link: true
