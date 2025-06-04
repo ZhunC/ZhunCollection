@@ -245,7 +245,7 @@ uint8_t writeSecondByte = processedData;
 
 ## Related Notes
 
-[[Communication with SPI|Communication with SPI]]
+[[2025-05-27-Communication-with-SPI|2025-05-27-Communication-with-SPI]]
 
 ---
 
