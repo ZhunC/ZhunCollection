@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Notes and Projects
-permalink: /notes/
+permalink: /projects/
 share: "True"
 ---
-
 # Notes
 
 {% for post in site.categories['Note'] %}
