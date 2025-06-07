@@ -4,8 +4,7 @@ layout: page
 share: "True"
 ---
 
-Zhun's Archive
----
+
 Hello! I'm Zhun ('June' by pronounciation). 
 
 I want to write manuals and tutorials, not just following them. And this site is where I document them.
