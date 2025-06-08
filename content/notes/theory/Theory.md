@@ -1,5 +1,7 @@
 ---
-aliases: ["notes/theory/index"]
-title: "Theory"
+aliases:
+  - notes/theory/index
+title: Theory
+share: "True"
 ---
 
