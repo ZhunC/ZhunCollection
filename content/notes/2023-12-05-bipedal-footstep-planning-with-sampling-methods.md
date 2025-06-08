@@ -4,7 +4,7 @@ categories: Note
 layout: post
 title: Bipedal Footstep Planning with Sampling Methods
 tags:
-    -mootion_planning/sampling/RRT-star
+  - -motion_planning/sampling/RRT-star
 ---
 
 
