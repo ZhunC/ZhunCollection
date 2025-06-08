@@ -1,6 +1,8 @@
 ---
-aliases: ["notes/realization/index"]
-title: "Realization"
+aliases:
+  - notes/realization/index
+title: Realization
+share: "True"
 ---
 
 
