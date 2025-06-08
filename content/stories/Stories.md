@@ -5,4 +5,4 @@ title: "Stories"
 
 
 
-[[Home|Home]]
+[[index|index]]

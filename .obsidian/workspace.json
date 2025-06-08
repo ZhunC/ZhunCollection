@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/stories/Stories.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stories"
+              "title": "index"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/stories/Stories.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stories"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -214,26 +214,27 @@
       "post-medium-draft:Post Medium draft": false
     }
   },
-  "active": "3f9e41807cf1173e",
+  "active": "4a45edd7873d4f3e",
   "lastOpenFiles": [
+    "public/notes/stories/index.html",
+    "public/notes/stories",
+    "public/resume",
     "public/postscript.js",
     "public/prescript.js",
     "public/index.css",
     "public/tags/index.html",
-    "public/resume.html",
-    "public/tags/-stories.html",
-    "public/tags/-embedded--c_programming.html",
-    "public/tags/-embedded/communication_protocols/spi.html",
-    "public/tags/-embedded/communication_protocols.html",
-    "public/tags/-embedded/communication_protocols",
-    "public/tags/-embedded",
-    "public/z_book_favicon.svg",
+    "public/stories/Stories.html",
+    "public/stories/2025-05-31-the-crossing.html",
+    "public/stories/index.html",
+    "public/stories/2025-05-30-trash-bag.html",
     "public/static/og-image.png",
     "public/static/icon.png",
+    "content/Home.md",
+    "content/index.md",
+    "content/stories/Stories.md",
+    "public/z_book_favicon.svg",
     "content/z_book_favicon.svg",
     "content/drafts/GENERATING DEEP FEATURES notes.md",
-    "content/Home.md",
-    "content/stories/Stories.md",
     "content/notes/theory/Theory.md",
     "content/notes/projects/Projects.md",
     "content/notes/realization/Realization.md",
@@ -255,7 +256,6 @@
     "stories/2025-05-31-the-crossing.md",
     "notes/2023-12-05-bipedal-footstep-planning-with-sampling-methods.md",
     "notes/2024-05-04-learning-dynamics.md",
-    "index.md",
     "content/node_modules/js-binary-schema-parser/example/box.gif",
     "node_modules/js-binary-schema-parser/example/dog.gif",
     "node_modules/js-binary-schema-parser/example/horses.gif",

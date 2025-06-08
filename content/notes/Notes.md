@@ -12,4 +12,4 @@ For now I'm categorizing my technical notes into three categories:
 
 [[Projects|Projects]] records where I put both together.
 
-[[Home|Home]]
+[[index|index]]

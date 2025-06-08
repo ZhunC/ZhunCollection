@@ -2,7 +2,6 @@
 title: Welcome!
 layout: page
 share: "True"
-aliases: ["index"]
 ---
 
 
