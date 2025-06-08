@@ -5,11 +5,14 @@ postType: post
 title: Quick Note on Bitwise Operation
 categories: Note
 share: "True"
+tags:
+    -embedded
+    -c_programming
 ---
 
 # C Bitwise Operations Reference
 
-Tags: #c #programming #embedded #bitwise 
+ #c #programming #embedded #bitwise 
 
 ## Overview
 

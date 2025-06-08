@@ -3,8 +3,10 @@ title: The Crossing
 share: "True"
 layout: post
 categories: Story
+tags:
+    -stories
 ---
-Tags: #Stories
+
 ### The Crossing
 
 Hampton Street was the main north-south thoroughfare in the city of Heimer, and its crossing with Washington Avenue is at the center of Heimer road system. On a regular workday evening you can see right turning cars stemming the entire lane, and frenzy drivers rushing through yellow lights. It remains the busiest crossing I’ve seen since I moved here. Still, I need to cross it to get to my school.
