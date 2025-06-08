@@ -3,9 +3,7 @@ share: "True"
 postType: post
 categories: Note
 title: UAV Controller Framework
-tags:
-    -control_theory
-    -UAV
+tags: -control_theory -UAV
 ---
 
 

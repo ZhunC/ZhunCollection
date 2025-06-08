@@ -3,7 +3,7 @@ share: "True"
 postType: post
 categories: Note
 title: "Learning Dynamics: Some Thoughts on World Models"
-tags: 
+tags:
   - machine_learning
   - control_theory
 ---

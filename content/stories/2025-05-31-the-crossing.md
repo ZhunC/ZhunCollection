@@ -3,8 +3,7 @@ title: The Crossing
 share: "True"
 layout: post
 categories: Story
-tags:
-    -stories
+tags: -stories
 ---
 
 ### The Crossing

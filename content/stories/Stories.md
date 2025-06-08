@@ -1,8 +1,8 @@
 ---
-aliases: ["notes/stories/index"]
-title: "Stories"
+aliases:
+  - notes/stories/index
+title: Stories
+share: "True"
 ---
 
 
-
-[[index|index]]

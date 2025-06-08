@@ -3,8 +3,7 @@ share: "True"
 categories: Note
 title: Communication with SPI
 postType: post
-tags:
-    -embedded/communication_protocols/spi
+tags: -embedded/communication_protocols/spi
 ---
 # SPI Communication Protocol Guide
 
