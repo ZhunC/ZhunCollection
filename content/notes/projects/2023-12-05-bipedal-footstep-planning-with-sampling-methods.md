@@ -4,11 +4,9 @@ categories: Note
 layout: post
 title: Bipedal Footstep Planning with Sampling Methods
 tags:
-    -mootion_planning/sampling/RRT-star
+  - -motion_planning/sampling/RRT-star
 ---
-
-
-For a bipedal robot to start planning joint states and control trajectories, it has to know where to place its feet sequentially, from start to goal. This project starts off as the course project for RBE 550 Motion Planning at WPI and aims to plan the footsteps using RRT*, a sampling-based motion planning algorithm that samples, expands, and reorganizes its waypoint tree.
+For a bipedal robot to start planning joint states and control trajectories, it has to know where to place its feet sequentially, from start to goal. This [[Projects|project]] starts off as the course project for RBE 550 Motion Planning at WPI and aims to plan the footsteps using RRT*, a sampling-based motion planning algorithm that samples, expands, and reorganizes its waypoint tree.
 
 The environment studied is assumed to be closed, stationary, and fully known. Dynamics are ignored in planning footsteps, and are assumed to be handled by the trajectory planner one level below this planner.
 

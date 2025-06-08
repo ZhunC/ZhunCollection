@@ -17,7 +17,8 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "zhunc.github.io/ZhunCollection",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    // Updated to ignore drafts and unpublished folders
+    ignorePatterns: ["private", "templates", ".obsidian", "drafts", "unpublished"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -75,7 +76,7 @@ const config: QuartzConfig = {
     ],
     filters: [
       Plugin.RemoveDrafts(),
-      // Add this to filter out unwanted folder structures
+      // Additional filtering for drafts and unpublished content
     ],
     emitters: [
       Plugin.AliasRedirects(),
@@ -93,6 +94,5 @@ const config: QuartzConfig = {
     ],
   },
 }
-
 
 export default config

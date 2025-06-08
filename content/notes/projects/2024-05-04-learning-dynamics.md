@@ -8,7 +8,7 @@ tags:
   - control_theory
 ---
 
-This Project started as the course projecct for MA 529 Stochastic Processes in Worcester Polytechnic Institute in SP 2024 Semester. We aim to feed a quadruped’s state and control history to a deep learning model, which outputs states in the next instance. In other words, we want a neural network that captured the dynamic of this robot.
+This [[Projects|project]] started as the course projecct for MA 529 Stochastic Processes in Worcester Polytechnic Institute in SP 2024 Semester. We aim to feed a quadruped’s state and control history to a deep learning model, which outputs states in the next instance. In other words, we want a neural network that captured the dynamic of this robot.
 
 Why do we want to do so? Part of the motivation was Large Language Models(LLM) like ChatGPT, which is able to complete a sentence with the most likely phrases. What if it’s with system states instead of sentences, we thought? Can we design some neural networks bale to complete a state trajectory just as LLMs complete sentences?
 

@@ -1,7 +1,8 @@
 ---
-title: Zhun's Archive
+title: Welcome!
 layout: page
 share: "True"
+aliases: ["index"]
 ---
 
 
@@ -21,7 +22,7 @@ In my notes/manuals, I'm logging my newly acquired understandings, but also stre
 
 This is the outline I'm following now. Lots of contents to be filled, ideas to learn, introversion to think on. An exciting lifelong project, is what I'm building here. 
 
-And this space is where I store such efforts. Some are more mature than others, but all reflect ongoing efforts from me. For now, those include notes, projects, and some short stories. The construction of dynamic systems and the construction of human consciousness are equally fascinating to me, and I do find much in common between my engineering profession and creative pastime. Hope you enjoy them! 
+And this space is where I store such efforts. Some are more mature than others, but all reflect ongoing efforts from me. For now, those include [[Notes|notes]] and [[Stories|short stories]]. The construction of dynamic systems and the construction of human consciousness are equally fascinating to me, and I do find much in common between my engineering profession and creative pastime. Hope you enjoy them! 
 
 
 

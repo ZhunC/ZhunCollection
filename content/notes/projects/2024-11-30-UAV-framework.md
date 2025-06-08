@@ -9,7 +9,7 @@ tags:
 ---
 
 
-The idea for this plan arose from two course projects–UAV Control in WUSTL, and Robotic Control in WPI. In the former, we were tasked to command a real-life quadrotor to lift off, follow a square trajectory, and return. We used an LQR controller with linearized dynamics in this case. In the latter, we were to simulate a quadrotor to follow a flying object in unknown trajectories, capture it, and return. We used a sliding mode controller on the virtual inputs(lift force and three torques). You can find our poster below:
+The idea for this [[Projects|project]] arose from two course projects–UAV Control in WUSTL, and Robotic Control in WPI. In the former, we were tasked to command a real-life quadrotor to lift off, follow a square trajectory, and return. We used an LQR controller with linearized dynamics in this case. In the latter, we were to simulate a quadrotor to follow a flying object in unknown trajectories, capture it, and return. We used a sliding mode controller on the virtual inputs(lift force and three torques). You can find our poster below:
 
 [RBE 502 poster](https://drive.google.com/file/d/1BArOFkfy4LThffX5R8g4vH1r56HNiZ5e/view?usp=drive_link)
 

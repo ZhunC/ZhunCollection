@@ -26,3 +26,5 @@ No wonder that I’ve seen many other people pressing the pedestrian button and 
 For me, I cross alongside the traffic going straight. I seem to possess a combination of courage — to confront the right turning and left turning vehicles despite my sheer disadvantage in order to claim my share of this public crossing — and self-belittlement, such that my humble self does not deserve 30 seconds of the crossing just for me. I am an animal tamed by social order but still have some teeth.
 
 note: the road names, the city, the people, the voice ‘I’, and everything are all made up.
+
+[[Stories|Back to List of Stories]]
