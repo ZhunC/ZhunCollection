@@ -12,7 +12,7 @@ tags: -embedded -c_programming
 
 ## Overview
 
-[[Realization|Prototyping]] ideas frequently involves communicating with mechatronic components like actuators, sensors, or ICs, communication must follow certain protocols. That is, data are transmitted in sequential binary signals, and they are packaged with certain formats. I will write more on protocols, but this note records some common ways to manipulate data, often decimal in their original settings, as binary values. These manipulations are often essential to properly packaging the data values. 
+[[Application|Prototyping]] ideas frequently involves communicating with mechatronic components like actuators, sensors, or ICs, communication must follow certain protocols. That is, data are transmitted in sequential binary signals, and they are packaged with certain formats. I will write more on protocols, but this note records some common ways to manipulate data, often decimal in their original settings, as binary values. These manipulations are often essential to properly packaging the data values. 
 
 > [!info] Bitwise operations are essential when working with hardware registers, flags, and communication protocols like I2C, SPI, and UART.
 
