@@ -7,7 +7,7 @@ tags: -embedded/communication_protocols/spi
 ---
 # SPI Communication Protocol Guide
 
-This note is a record as I learn this communication protocol coming up in work. Serial Peripheral Interface (SPI) is a method/fashion for microcontrollers to send and ask for information from peripherals like sensors, memories/registers, etc. It has shown up frequently for [[Realization|prototyping]] purposes.
+This note is a record as I learn this communication protocol coming up in work. Serial Peripheral Interface (SPI) is a method/fashion for microcontrollers to send and ask for information from peripherals like sensors, memories/registers, etc. It has shown up frequently for [[Application|prototyping]] purposes.
 
 ## Wiring
 
