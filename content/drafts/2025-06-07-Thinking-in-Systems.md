@@ -41,10 +41,10 @@ Systems thinking provides a structured approach to understanding complexity by b
 
 **Foundation requirements:**
 
-- [[Mathematical Modeling Fundamentals]] - Basic understanding of differential equations, linear algebra
-- [[Control Theory Basics]] - Feedback principles, stability analysis
-- [[Domain Knowledge]] - Physics principles relevant to the specific system type
-- [[Computational Tools]] - MATLAB/Simulink, Python, or similar for simulation
+- [[Mathematical Modeling Fundamentals|Mathematical Modeling Fundamentals]] - Basic understanding of differential equations, linear algebra
+- [[Control Theory Basics|Control Theory Basics]] - Feedback principles, stability analysis
+- [[Domain Knowledge|Domain Knowledge]] - Physics principles relevant to the specific system type
+- [[Computational Tools|Computational Tools]] - MATLAB/Simulink, Python, or similar for simulation
 
 **Preparation pipeline:**
 
@@ -55,10 +55,10 @@ Systems thinking provides a structured approach to understanding complexity by b
 
 **Prerequisites by system type:**
 
-- **Mechanical Systems:** Statics, dynamics, material properties → [[Mechanical System Modeling]]
-- **Electrical Systems:** Circuit analysis, electromagnetic theory → [[Electrical System Analysis]]
-- **Thermal Systems:** Heat transfer, thermodynamics → [[Thermal System Design]]
-- **Robotic Systems:** Kinematics, dynamics, sensor integration → [[Robotics Fundamentals]]
+- **Mechanical Systems:** Statics, dynamics, material properties → [[Mechanical System Modeling|Mechanical System Modeling]]
+- **Electrical Systems:** Circuit analysis, electromagnetic theory → [[Electrical System Analysis|Electrical System Analysis]]
+- **Thermal Systems:** Heat transfer, thermodynamics → [[Thermal System Design|Thermal System Design]]
+- **Robotic Systems:** Kinematics, dynamics, sensor integration → [[Robotics Fundamentals|Robotics Fundamentals]]
 
 **When to apply:**
 
@@ -119,10 +119,10 @@ The process involves three primary activities:
 **Improvement and extension strategies:**
 
 - **Hierarchical modeling:** Multi-scale approaches from component to system level
-- **Machine learning integration:** Data-driven models to complement physics-based approaches → [[ML-Enhanced System Modeling]]
-- **Robust design:** Accounting for uncertainties and parameter variations → [[Robust Control Design]]
-- **Co-simulation:** Coupling multiple specialized modeling tools → [[Multi-Domain Simulation]]
-- **Digital twins:** Real-time model updating based on sensor feedback → [[Digital Twin Implementation]]
+- **Machine learning integration:** Data-driven models to complement physics-based approaches → [[ML-Enhanced System Modeling|ML-Enhanced System Modeling]]
+- **Robust design:** Accounting for uncertainties and parameter variations → [[Robust Control Design|Robust Control Design]]
+- **Co-simulation:** Coupling multiple specialized modeling tools → [[Multi-Domain Simulation|Multi-Domain Simulation]]
+- **Digital twins:** Real-time model updating based on sensor feedback → [[Digital Twin Implementation|Digital Twin Implementation]]
 
 **Advanced extensions:**
 
@@ -135,11 +135,11 @@ The process involves three primary activities:
 
 ## Related Concepts
 
-- [[Control Systems Engineering]]
-- [[Model-Based Design]]
-- [[System Identification]]
-- [[Multi-Domain Physics]]
-- [[Complexity Theory]]
+- [[Control Systems Engineering|Control Systems Engineering]]
+- [[Model-Based Design|Model-Based Design]]
+- [[System Identification|System Identification]]
+- [[Multi-Domain Physics|Multi-Domain Physics]]
+- [[Complexity Theory|Complexity Theory]]
 
 ## Tags
 
