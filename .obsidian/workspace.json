@@ -104,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Notes.md",
+                "file": "content/resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "resume"
             }
           }
         ],
@@ -262,14 +262,15 @@
       "post-medium-draft:Post Medium draft": false
     }
   },
-  "active": "1ea75956aec8fcbc",
+  "active": "a3172665df36f41a",
   "lastOpenFiles": [
+    "content/notes/application/2025-05-30-bitwise-operation.md",
+    "content/notes/application/Application.md",
+    "content/notes/Notes.md",
     "content/notes/theory/Theory.md",
     "content/notes/projects/Projects.md",
-    "content/notes/application/Application.md",
     "content/notes/projects/2024-11-30-UAV-framework.md",
     "content/notes/application/2025-05-27-Communication-with-SPI.md",
-    "content/notes/application/2025-05-30-bitwise-operation.md",
     "content/resume.md",
     "drafts/Waltz on the Metro.md",
     "content/notes/theory/2025-08-25-A-Cadence-centered-Approach-to-Iterative-Production-Level-Software-Development.md",
@@ -283,7 +284,6 @@
     "New folder",
     "content/notes/application/2025-09-21-InTAR-Inter-Task-Auto-Reconfigurable-Accelerator.md",
     "content/index.md",
-    "content/notes/Notes.md",
     "content/stories/Yelena Volshka Birth of a Kislev Hag Witch/notes/Yelena Volshka - Novel Project Memo.md",
     "content/notes/application",
     "drafts/A Cadence-centered Approach to Iterative Production-Level Mechanical Development..md",
