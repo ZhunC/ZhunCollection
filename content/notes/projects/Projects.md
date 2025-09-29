@@ -1,6 +1,8 @@
 ---
-aliases: ["notes/projects/index"]
-title: "Projects"
+aliases:
+  - notes/projects/index
+title: Projects
+share: "True"
 ---
 
 
