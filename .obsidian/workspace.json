@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/projects/2024-11-30-UAV-framework.md",
+                "file": "content/notes/application/Application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-30-UAV-framework"
+              "title": "Application"
             }
           }
         ],
@@ -262,15 +262,18 @@
       "post-medium-draft:Post Medium draft": false
     }
   },
-  "active": "3f9e41807cf1173e",
+  "active": "1ea75956aec8fcbc",
   "lastOpenFiles": [
+    "content/notes/theory/Theory.md",
+    "content/notes/projects/Projects.md",
+    "content/notes/application/Application.md",
+    "content/notes/projects/2024-11-30-UAV-framework.md",
     "content/notes/application/2025-05-27-Communication-with-SPI.md",
     "content/notes/application/2025-05-30-bitwise-operation.md",
     "content/resume.md",
     "drafts/Waltz on the Metro.md",
     "content/notes/theory/2025-08-25-A-Cadence-centered-Approach-to-Iterative-Production-Level-Software-Development.md",
     "content/notes/application/Realization.md",
-    "content/notes/application/Application.md",
     "content/notes/realization/Realization.md",
     "content/notes/realization/2025-05-30-bitwise-operation.md",
     "content/notes/realization/2025-05-27-Communication-with-SPI.md",
@@ -280,9 +283,7 @@
     "New folder",
     "content/notes/application/2025-09-21-InTAR-Inter-Task-Auto-Reconfigurable-Accelerator.md",
     "content/index.md",
-    "content/notes/theory/Theory.md",
     "content/notes/Notes.md",
-    "content/notes/projects/2024-11-30-UAV-framework.md",
     "content/stories/Yelena Volshka Birth of a Kislev Hag Witch/notes/Yelena Volshka - Novel Project Memo.md",
     "content/notes/application",
     "drafts/A Cadence-centered Approach to Iterative Production-Level Mechanical Development..md",
@@ -298,7 +299,6 @@
     "content/drafts/2025-06-07-Approaching-a-System.md",
     "content/drafts/research topics.md",
     "content/drafts/Thoughts on Zizek.md",
-    "content/drafts/Identity and Existential Self-Discovery.md",
     "unpublished",
     "public/static/og-image.png",
     "public/static/icon.png",
