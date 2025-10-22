@@ -5,9 +5,7 @@ postType: post
 title: Quick Note on Bitwise Operation
 categories: Note
 share: "True"
-tags:
-    -embedded
-    -c_programming
+tags: -embedded -c_programming
 ---
 
 # C Bitwise Operations Reference
@@ -246,7 +244,7 @@ uint8_t writeSecondByte = processedData;
 
 ## Related Notes
 
-[[2025-05-27-Communication-with-SPI]]
+[[2025-05-27-Communication-with-SPI|2025-05-27-Communication-with-SPI]]
 
 ---
 
