@@ -1,5 +1,12 @@
 ---
-share: "False"
+share: "True"
+tags:
+  - -embedded
+  - Edge_ML
+  - paper
+categories: Note
+postType: post
+title: InTAR Inter Task Auto Reconfigurable Accelerator
 ---
 # InTAR-Inter-Task-Auto-Reconfigurable-Accelerator
 
