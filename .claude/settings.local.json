@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(python \"C:/Users/Gaming pc/.claude/hooks/obsidian_search.py\")",
+      "Bash(python -c \"import json; f=open\\('C:/Users/Gaming pc/.claude/settings.json'\\); data=json.load\\(f\\); print\\('valid'\\); print\\('hook command:', data['hooks']['UserPromptSubmit'][0]['hooks'][0]['command']\\)\")",
+      "Bash(python simulator/forward.py --no-plot)",
+      "Bash(python simulator/forward.py --a 10 --b 0.5 --c 1.5 --sigma 0.3 --t-end 15 --no-plot)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git fetch *)",
+      "Bash(git ls-tree *)",
+      "Bash(git --no-pager show origin/main -- .gitignore)",
+      "Bash(git add *)"
+    ]
+  }
+}
