@@ -1,3 +1,0 @@
-	freuency is linear! 
-
-
